@@ -1,2 +1,2 @@
 # PDF-to-Audio
-Chrome Extension to turn PDF into audio
+Python script to turn PDF into audio
